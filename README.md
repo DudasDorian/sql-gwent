@@ -11,13 +11,13 @@ And there are two more tables relating to the player's decks - one for storing t
 
 This structure has allowed for some quick Microsoft Access forms which could interact with the data in the database similarly to the [original game](https://witcher.fandom.com/wiki/Gwent)
 _Some examples for the cards selection:_
-[View all Cards](https://github.com/DudasDorian/sql-gwent/blob/main/MS%20Access%20form%20examples/cards_all.PNG)
-[View all siege Cards](https://github.com/DudasDorian/sql-gwent/blob/main/MS%20Access%20form%20examples/cards_siege.PNG)
-[View all special Cards](https://github.com/DudasDorian/sql-gwent/blob/main/MS%20Access%20form%20examples/cards_special.PNG)
+![View all Cards](https://github.com/DudasDorian/sql-gwent/blob/main/MS%20Access%20form%20examples/cards_all.PNG)
+![View all siege Cards](https://github.com/DudasDorian/sql-gwent/blob/main/MS%20Access%20form%20examples/cards_siege.PNG)
+![View all special Cards](https://github.com/DudasDorian/sql-gwent/blob/main/MS%20Access%20form%20examples/cards_special.PNG)
 _The ability to see one's decks and its cards_
-[View deck](https://github.com/DudasDorian/sql-gwent/blob/main/MS%20Access%20form%20examples/my%20decks.PNG)
+![View deck](https://github.com/DudasDorian/sql-gwent/blob/main/MS%20Access%20form%20examples/my%20decks.PNG)
 _And the forms bunched together into one, deck builder form:_
-[Deck Builder](https://github.com/DudasDorian/sql-gwent/blob/main/MS%20Access%20form%20examples/deck%20builder%20stitched%20final.png)
+![Deck Builder](https://github.com/DudasDorian/sql-gwent/blob/main/MS%20Access%20form%20examples/deck%20builder%20stitched%20final.png)
 
 ## Additional details
 In the [MS Access form examples](https://github.com/DudasDorian/sql-gwent/tree/main/MS%20Access%20form%20examples) one can find some screenshots of the Access forms.
